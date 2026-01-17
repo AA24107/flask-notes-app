@@ -19,14 +19,6 @@ The primary goal of this project was learning and practice. Through building thi
 - Persistent storage using SQLite
 - Simple and minimal user interface
 
-## Demo
-A short demo video showing the core functionality of the application:
-- Creating notes
-- Viewing saved notes
-- Deleting notes
-
-[Demo Video](https://github.com/AA24107/flask-notes-app/blob/main/flask-notes-app-demo.mp4)
-
 ## Tech Stack
 - Python
 - Flask

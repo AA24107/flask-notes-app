@@ -25,7 +25,7 @@ A short demo video showing the core functionality of the application:
 - Viewing saved notes
 - Deleting notes
 
-[Demo Video]
+[Demo Video](https://github.com/AA24107/flask-notes-app/blob/main/flask-notes-app-demo.mp4)
 
 ## Tech Stack
 - Python
